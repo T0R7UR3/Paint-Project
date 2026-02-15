@@ -1,0 +1,32 @@
+C:\Documents\VIsual Studio\SNHU\IT145\IT145_Project2_Paint\bin\Debug\net10.0-windows\IT145_Project2_Paint.exe
+C:\Documents\VIsual Studio\SNHU\IT145\IT145_Project2_Paint\bin\Debug\net10.0-windows\IT145_Project2_Paint.deps.json
+C:\Documents\VIsual Studio\SNHU\IT145\IT145_Project2_Paint\bin\Debug\net10.0-windows\IT145_Project2_Paint.runtimeconfig.json
+C:\Documents\VIsual Studio\SNHU\IT145\IT145_Project2_Paint\bin\Debug\net10.0-windows\IT145_Project2_Paint.dll
+C:\Documents\VIsual Studio\SNHU\IT145\IT145_Project2_Paint\bin\Debug\net10.0-windows\IT145_Project2_Paint.pdb
+C:\Documents\VIsual Studio\SNHU\IT145\IT145_Project2_Paint\obj\Debug\net10.0-windows\IT145_Project2_Paint.csproj.GenerateResource.cache
+C:\Documents\VIsual Studio\SNHU\IT145\IT145_Project2_Paint\obj\Debug\net10.0-windows\IT145_Project2_Paint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documents\VIsual Studio\SNHU\IT145\IT145_Project2_Paint\obj\Debug\net10.0-windows\IT145_Project2_Paint.AssemblyInfoInputs.cache
+C:\Documents\VIsual Studio\SNHU\IT145\IT145_Project2_Paint\obj\Debug\net10.0-windows\IT145_Project2_Paint.AssemblyInfo.cs
+C:\Documents\VIsual Studio\SNHU\IT145\IT145_Project2_Paint\obj\Debug\net10.0-windows\IT145_Project2_Paint.csproj.CoreCompileInputs.cache
+C:\Documents\VIsual Studio\SNHU\IT145\IT145_Project2_Paint\obj\Debug\net10.0-windows\IT145_Project2_Paint.dll
+C:\Documents\VIsual Studio\SNHU\IT145\IT145_Project2_Paint\obj\Debug\net10.0-windows\refint\IT145_Project2_Paint.dll
+C:\Documents\VIsual Studio\SNHU\IT145\IT145_Project2_Paint\obj\Debug\net10.0-windows\IT145_Project2_Paint.pdb
+C:\Documents\VIsual Studio\SNHU\IT145\IT145_Project2_Paint\obj\Debug\net10.0-windows\IT145_Project2_Paint.genruntimeconfig.cache
+C:\Documents\VIsual Studio\SNHU\IT145\IT145_Project2_Paint\obj\Debug\net10.0-windows\ref\IT145_Project2_Paint.dll
+C:\Documents\VIsual Studio\SNHU\IT145\IT145_Project2_Paint\obj\Debug\net10.0-windows\IT145_Project2_Paint.PaintForm.resources
+C:\IT145\IT145_Project2_Paint\IT145_Project2_Paint\bin\Debug\net10.0-windows\IT145_Project2_Paint.exe
+C:\IT145\IT145_Project2_Paint\IT145_Project2_Paint\bin\Debug\net10.0-windows\IT145_Project2_Paint.deps.json
+C:\IT145\IT145_Project2_Paint\IT145_Project2_Paint\bin\Debug\net10.0-windows\IT145_Project2_Paint.runtimeconfig.json
+C:\IT145\IT145_Project2_Paint\IT145_Project2_Paint\bin\Debug\net10.0-windows\IT145_Project2_Paint.dll
+C:\IT145\IT145_Project2_Paint\IT145_Project2_Paint\bin\Debug\net10.0-windows\IT145_Project2_Paint.pdb
+C:\IT145\IT145_Project2_Paint\IT145_Project2_Paint\obj\Debug\net10.0-windows\IT145_Project2_Paint.PaintForm.resources
+C:\IT145\IT145_Project2_Paint\IT145_Project2_Paint\obj\Debug\net10.0-windows\IT145_Project2_Paint.csproj.GenerateResource.cache
+C:\IT145\IT145_Project2_Paint\IT145_Project2_Paint\obj\Debug\net10.0-windows\IT145_Project2_Paint.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT145\IT145_Project2_Paint\IT145_Project2_Paint\obj\Debug\net10.0-windows\IT145_Project2_Paint.AssemblyInfoInputs.cache
+C:\IT145\IT145_Project2_Paint\IT145_Project2_Paint\obj\Debug\net10.0-windows\IT145_Project2_Paint.AssemblyInfo.cs
+C:\IT145\IT145_Project2_Paint\IT145_Project2_Paint\obj\Debug\net10.0-windows\IT145_Project2_Paint.csproj.CoreCompileInputs.cache
+C:\IT145\IT145_Project2_Paint\IT145_Project2_Paint\obj\Debug\net10.0-windows\IT145_Project2_Paint.dll
+C:\IT145\IT145_Project2_Paint\IT145_Project2_Paint\obj\Debug\net10.0-windows\refint\IT145_Project2_Paint.dll
+C:\IT145\IT145_Project2_Paint\IT145_Project2_Paint\obj\Debug\net10.0-windows\IT145_Project2_Paint.pdb
+C:\IT145\IT145_Project2_Paint\IT145_Project2_Paint\obj\Debug\net10.0-windows\IT145_Project2_Paint.genruntimeconfig.cache
+C:\IT145\IT145_Project2_Paint\IT145_Project2_Paint\obj\Debug\net10.0-windows\ref\IT145_Project2_Paint.dll
